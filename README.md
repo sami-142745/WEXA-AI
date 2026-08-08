@@ -29,6 +29,10 @@ Dataset Used:
 
 **soc-pokec-relationships.txt.gz**
 
+DATASET URL LINK 
+
+https://uploadnow.io/f/JcvBwGp
+
 Source:
 SNAP (Stanford Network Analysis Project)
 
