@@ -1,0 +1,21 @@
+database,workload,workers,iterations,total_time,throughput
+cognodb,Concurrent Lookup,10,100,4.33,23.11
+cognodb,Concurrent Lookup,10,100,4.33,23.11
+cognodb,Concurrent Traversal,10,100,3.17,31.52
+cognodb,Concurrent Traversal,10,100,3.17,31.52
+neo4j,Concurrent Lookup,10,100,1.21,82.96
+neo4j,Concurrent Lookup,10,100,1.21,82.96
+neo4j,Concurrent Traversal,10,100,0.9,110.69
+neo4j,Concurrent Traversal,10,100,0.9,110.69
+memgraph,Concurrent Lookup,10,100,0.13,795.03
+memgraph,Concurrent Lookup,10,100,0.13,795.03
+memgraph,Concurrent Traversal,10,100,0.11,878.49
+memgraph,Concurrent Traversal,10,100,0.11,878.49
+arangodb,Concurrent Lookup,10,100,4.79,20.86
+arangodb,Concurrent Lookup,10,100,4.79,20.86
+arangodb,Concurrent Traversal,10,100,3.35,29.82
+arangodb,Concurrent Traversal,10,100,3.35,29.82
+age,Concurrent Lookup,10,100,0.7,143.36
+age,Concurrent Lookup,10,100,0.7,143.36
+age,Concurrent Traversal,10,100,1.02,97.63
+age,Concurrent Traversal,10,100,1.02,97.63

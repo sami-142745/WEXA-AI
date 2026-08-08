@@ -1,0 +1,9 @@
+{
+    "Average": 318.55,
+    "Minimum": 281.97,
+    "Maximum": 485.83,
+    "P50": 310.53,
+    "P95": 382.65,
+    "Iterations": 100,
+    "Warmup": 20
+}

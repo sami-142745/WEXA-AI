@@ -1,0 +1,10 @@
+[
+    {
+        "Database":"cognodb",
+        "Nodes":49683,
+        "Relationships":100000,
+        "Import Time (sec)":18.3,
+        "Nodes\/sec":2714.59,
+        "Relationships\/sec":5463.81
+    }
+]

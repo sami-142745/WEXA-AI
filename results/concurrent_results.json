@@ -1,0 +1,162 @@
+[
+    {
+        "database":"cognodb",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":4.33,
+        "throughput":23.11
+    },
+    {
+        "database":"cognodb",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":4.33,
+        "throughput":23.11
+    },
+    {
+        "database":"cognodb",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":3.17,
+        "throughput":31.52
+    },
+    {
+        "database":"cognodb",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":3.17,
+        "throughput":31.52
+    },
+    {
+        "database":"neo4j",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":1.21,
+        "throughput":82.96
+    },
+    {
+        "database":"neo4j",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":1.21,
+        "throughput":82.96
+    },
+    {
+        "database":"neo4j",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.9,
+        "throughput":110.69
+    },
+    {
+        "database":"neo4j",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.9,
+        "throughput":110.69
+    },
+    {
+        "database":"memgraph",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.13,
+        "throughput":795.03
+    },
+    {
+        "database":"memgraph",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.13,
+        "throughput":795.03
+    },
+    {
+        "database":"memgraph",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.11,
+        "throughput":878.49
+    },
+    {
+        "database":"memgraph",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.11,
+        "throughput":878.49
+    },
+    {
+        "database":"arangodb",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":4.79,
+        "throughput":20.86
+    },
+    {
+        "database":"arangodb",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":4.79,
+        "throughput":20.86
+    },
+    {
+        "database":"arangodb",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":3.35,
+        "throughput":29.82
+    },
+    {
+        "database":"arangodb",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":3.35,
+        "throughput":29.82
+    },
+    {
+        "database":"age",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.7,
+        "throughput":143.36
+    },
+    {
+        "database":"age",
+        "workload":"Concurrent Lookup",
+        "workers":10,
+        "iterations":100,
+        "total_time":0.7,
+        "throughput":143.36
+    },
+    {
+        "database":"age",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":1.02,
+        "throughput":97.63
+    },
+    {
+        "database":"age",
+        "workload":"Concurrent Traversal",
+        "workers":10,
+        "iterations":100,
+        "total_time":1.02,
+        "throughput":97.63
+    }
+]
